@@ -1,13 +1,12 @@
-// SparklingHomes Cleaning Service — businessConfig
-// Generated: 2026-06-09 15:27
-// Edit freely. Re-run the generator to rebuild from scratch.
+// SparklingHomes — businessConfig
+// Images refreshed: 2026-06-09 15:33
 
 export const businessConfig = {
-  "name": "SparklingHomes Cleaning Service",
-  "namePart1": "SparklingHomes",
-  "namePart2": "Cleaning Service",
+  "name": "SparklingHomes",
+  "namePart1": "Sparkling",
+  "namePart2": "Homes",
   "tagline": "Cleaning Done Right",
-  "category": "House Cleaning, Apartment Cleaning, Office Cleaning, Closet Organization",
+  "category": "cleaning",
   "city": "Houston",
   "primaryColor": "#1C3F3A",
   "secondaryColor": "#6BBF9E",
@@ -35,7 +34,7 @@ export const businessConfig = {
   "headlineBold": "Cleaning Done Right",
   "heroKeyword": "CLEAN",
   "heroImage": "/hero-generated.jpg",
-  "aboutImage": "https://images.pexels.com/photos/5961123/pexels-photo-5961123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "aboutImage": "https://images.pexels.com/photos/13009887/pexels-photo-13009887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "heroSubtext": "Trusted cleaning service in Houston.",
   "ctaBannerHeadline": "Get A Quote Today",
   "ctaBannerSubtext": "Schedule your cleaning service now.",
@@ -289,67 +288,69 @@ export const businessConfig = {
   ],
   "gallery": [
     {
-      "src": "https://images.pexels.com/photos/7511748/pexels-photo-7511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7533845/pexels-photo-7533845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "luxury apartment after clean"
     },
     {
-      "src": "https://images.pexels.com/photos/6345056/pexels-photo-6345056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6920448/pexels-photo-6920448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "premium lounge clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/6794970/pexels-photo-6794970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6636302/pexels-photo-6636302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "office clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/8297846/pexels-photo-8297846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7214451/pexels-photo-7214451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "kitchen deep clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/8297857/pexels-photo-8297857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6438745/pexels-photo-6438745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "bedroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/280471/pexels-photo-280471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7587744/pexels-photo-7587744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "commercial space clean"
     },
     {
-      "src": "https://images.pexels.com/photos/5511099/pexels-photo-5511099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6920443/pexels-photo-6920443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "bathroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7750129/pexels-photo-7750129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6920631/pexels-photo-6920631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "living room clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7750123/pexels-photo-7750123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/8135489/pexels-photo-8135489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "hallway clean result"
     }
   ],
   "videoUrl": "",
   "marqueeImages": [
-    "https://images.pexels.com/photos/7511748/pexels-photo-7511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/6345056/pexels-photo-6345056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/6794970/pexels-photo-6794970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8297846/pexels-photo-8297846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8297857/pexels-photo-8297857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/280471/pexels-photo-280471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/5511099/pexels-photo-5511099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7750129/pexels-photo-7750129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7533845/pexels-photo-7533845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6920448/pexels-photo-6920448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6636302/pexels-photo-6636302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7214451/pexels-photo-7214451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6438745/pexels-photo-6438745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7587744/pexels-photo-7587744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6920443/pexels-photo-6920443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6920631/pexels-photo-6920631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8135489/pexels-photo-8135489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "/service-1-generated.jpg",
     "/service-2-generated.jpg",
     "/service-3-generated.jpg",
     "/service-4-generated.jpg",
     "/service-5-generated.jpg",
-    "/service-6-generated.jpg"
+    "/service-6-generated.jpg",
+    "https://images.pexels.com/photos/7533845/pexels-photo-7533845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "beforeAfter": [
     {
@@ -357,48 +358,48 @@ export const businessConfig = {
       "category": "Residential",
       "title": "Move-Out Clean",
       "description": "City centre apartment, Houston",
-      "before": "https://images.pexels.com/photos/7433871/pexels-photo-7433871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/5961123/pexels-photo-5961123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/8859700/pexels-photo-8859700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/13009887/pexels-photo-13009887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 2,
       "category": "Residential",
       "title": "Deep Clean",
       "description": "Luxury high-rise, Houston",
-      "before": "https://images.pexels.com/photos/7927259/pexels-photo-7927259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7511748/pexels-photo-7511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/17139803/pexels-photo-17139803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7533845/pexels-photo-7533845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 3,
       "category": "Commercial",
       "title": "Office Clean",
       "description": "Commercial space, Houston",
-      "before": "https://images.pexels.com/photos/13419253/pexels-photo-13419253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/6345056/pexels-photo-6345056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/10252682/pexels-photo-10252682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6920448/pexels-photo-6920448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 4,
       "category": "Residential",
       "title": "End of Tenancy",
       "description": "Apartment complex, Houston",
-      "before": "https://images.pexels.com/photos/4175021/pexels-photo-4175021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/6794970/pexels-photo-6794970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/34410089/pexels-photo-34410089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6636302/pexels-photo-6636302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 5,
       "category": "Interior",
       "title": "Kitchen Restoration",
       "description": "City centre flat, Houston",
-      "before": "https://images.pexels.com/photos/8278873/pexels-photo-8278873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/8297846/pexels-photo-8297846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/20643648/pexels-photo-20643648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7214451/pexels-photo-7214451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 6,
       "category": "Residential",
       "title": "Post-Renovation",
       "description": "New build, Houston",
-      "before": "https://images.pexels.com/photos/6919757/pexels-photo-6919757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/8297857/pexels-photo-8297857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/26605943/pexels-photo-26605943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6438745/pexels-photo-6438745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "projects": [
@@ -406,25 +407,25 @@ export const businessConfig = {
       "category": "Residential",
       "title": "River Oaks Project",
       "location": "River Oaks, Houston",
-      "img": "https://images.pexels.com/photos/7511748/pexels-photo-7511748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7533845/pexels-photo-7533845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Commercial",
       "title": "Downtown Office Building",
       "location": "Downtown, Houston",
-      "img": "https://images.pexels.com/photos/6794970/pexels-photo-6794970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/6636302/pexels-photo-6636302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Residential",
       "title": "The Heights Project",
       "location": "The Heights, Houston",
-      "img": "https://images.pexels.com/photos/6345056/pexels-photo-6345056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/6920448/pexels-photo-6920448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Interior",
       "title": "Montrose Kitchen Renovation",
       "location": "Montrose, Houston",
-      "img": "https://images.pexels.com/photos/8297846/pexels-photo-8297846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7214451/pexels-photo-7214451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "testimonials": [
